@@ -165,8 +165,6 @@ for (item of buttons) {
 ![out](https://user-images.githubusercontent.com/119404990/215322228-5011cec4-a4a3-405c-8236-4eb715433dc6.png)
 
 
-![OUTPUT](./result.png)
-
 VALIDATOR:
 
 ![valid](https://user-images.githubusercontent.com/119404990/215322207-ec7913b6-f38c-4b34-ad91-f0755a9b8ca4.png)
